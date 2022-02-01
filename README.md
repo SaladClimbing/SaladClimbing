@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaladClimbing
 - 👀 I’m interested in game development and software development
-- 🌱 I’m currently working on a quiz-like game for school
+- 🌱 I’m currently working on an Unicode Game
 - 📫 You can reach me right here on GitHub, any questions you have go ahead and ask them!
 
 <!---
