@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @SaladClimbing
 - 👀 I’m interested in game development and software development
-- 🌱 I’m currently working on a Minecraft Chattriggers module to make a calculator
+- 🌱 I’m currently working on a C# game framework for console based games
 - 📫 You can reach me right here on GitHub, any questions you have go ahead and ask them!
 
 <!---
