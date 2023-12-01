@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @SaladClimbing
 - 👀 I’m interested in game development and software development
-- 🌱 I’m currently working on a C# game framework for console based games
+- 🌱 I’m currently working on a videogame in Godot
 - 📫 You can reach me right here on GitHub, any questions you have go ahead and ask them!
 
 <!---
