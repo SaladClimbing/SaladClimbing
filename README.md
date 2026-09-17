@@ -30,10 +30,9 @@ I build at the intersection of hardware, firmware, and software. My background s
 
 ### ⚡ Quick Facts
 
-- 🎓 Pursuing a **B.S. in Computer Science** at New College of Florida (Exp. May 2028)[cite: 1]
-- ⚙️ Holds an **A.A.S. in Mechatronics Engineering** from Roane State Community College[cite: 1]
-- ✈️ Former training coursework at the **United States Air Force Academy**[cite: 1]
-- 🤼 Former 3-time **Varsity Wrestling Team Captain**[cite: 1]
+- 🎓 Pursuing a **B.S. in Computer Science** at New College of Florida (Exp. May 2028)
+- ⚙️ Holds an **A.A.S. in Mechatronics Engineering** from Roane State Community College
+- ✈️ Former training coursework at the **United States Air Force Academy**
 - 🖨️ Active in local makerspaces and custom machine builds since the original RepRap i3 era
 
 ---
@@ -41,4 +40,3 @@ I build at the intersection of hardware, firmware, and software. My background s
 ### 📫 Connect With Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email Badge](https://img.shields.io/badge/Email-andlucas632%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andlucas632@gmail.com)
